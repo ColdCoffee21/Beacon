@@ -12,3 +12,7 @@ There are two modes of operation: Someone is sharing their location (i.e, “car
 - Following the beacon
   
   <img src="https://github.com/ColdCoffee21/Beacon/blob/master/preview/followBeacon.gif" width="236" height="420">
+  
+  
+  # TODO
+  - [ ] Send passkey as message to all chosen contacts
